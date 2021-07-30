@@ -1,5 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonathascesar232&repo=jhonathascesar232&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonathascesar232&repo=jhonathascesar232&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ## Olá! Eu sou Jhonathas César👋
 
 - 🌱 Estudando Django ...
